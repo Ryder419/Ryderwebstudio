@@ -28,8 +28,8 @@ Welcome to my GitHub repository! I am **Ryder Horton**, a passionate and skilled
 
 If you're interested in working with me or want to discuss your project, feel free to reach out! You can contact me via the following:
 
-- **Email:**
-- **LinkedIn:** ryder419.github.io
+- **Email:** ryderhorton419@gmail.com 
+- **LinkedIn:** https://github.com/ryder419.github.io
 - **Portfolio:** https://github.com/Ryder419/Ryderwebstudio/settings/pages
 
 ## Why Choose Me?
